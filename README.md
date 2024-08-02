@@ -10,17 +10,20 @@ A versatile Rock-Paper-Scissors game supporting 2-5 players, including CPU oppon
 
 1. **Java Development Kit (JDK):** Ensure that you have JDK installed on your system. 
 
-2. **Download the Game Files:** 
-   - Clone the repository or download the game files to your local machine.
+2. **Download the Game Files:**
+   
+   • Clone the repository or download the game files to your local machine.
 
-3. **Compile the Code:**
+4. **Compile the Code:**
+   
    • Navigate to the directory containing the game files and compile the Java code using:
      ```bash
      javac -d bin src/Games/RPS/RPSmethods.java
      ```
 
-4. **Run the Game:**
-   - To start the game, run the following command:
+5. **Run the Game:**
+   
+   • To start the game, run the following command:
      ```bash
      java -cp bin Games.RPS.RPSmethods
      ```
