@@ -1,4 +1,4 @@
-# Java_Rock-Paper-Scissors
+# 5-Player Rock-Paper-Scissors
 A versatile Rock-Paper-Scissors game supporting 2-5 players, including CPU opponents, with interactive gameplay and quit functionality.
 
 ## Table of Contents
